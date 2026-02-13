@@ -27,7 +27,3 @@ final res = await dio!.get(
     return res;
   }
 }
-
-class ApiConstants {
-  static var baseUrl;
-}
